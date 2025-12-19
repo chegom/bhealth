@@ -1,0 +1,25 @@
+# 네이버 검색 로봇 및 기타 검색 엔진 설정
+User-agent: *
+Allow: /
+
+# 네이버 검색 로봇
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+# Google 검색 로봇
+User-agent: Googlebot
+Allow: /
+
+# Bing 검색 로봇
+User-agent: Bingbot
+Allow: /
+
+# 사이트맵 위치
+Sitemap: https://bhealth-five.vercel.app/sitemap.xml
+
+# 크롤링 제한 없음 (모든 페이지 허용)
+Disallow:
+
