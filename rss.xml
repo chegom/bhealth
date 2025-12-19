@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>B-health | 몸과 마음이 온전히 회복되는 공간</title>
+        <link>https://bhealth-five.vercel.app/</link>
+        <description>40대 여성, 번아웃, 심리 치유, 마음 챙김. 온전한 쉼과 회복의 공간입니다. 여성회복센터, 심리상담, 40대여성 힐링공간</description>
+        <language>ko-KR</language>
+        <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0900</lastBuildDate>
+        <pubDate>Thu, 19 Dec 2024 00:00:00 +0900</pubDate>
+        <managingEditor>bhealth7979@gmail.com (B-health)</managingEditor>
+        <webMaster>bhealth7979@gmail.com (B-health)</webMaster>
+        <image>
+            <url>https://bhealth-five.vercel.app/main_banner.png</url>
+            <title>B-health</title>
+            <link>https://bhealth-five.vercel.app/</link>
+        </image>
+        <atom:link href="https://bhealth-five.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
+        
+        <!-- 메인 페이지 -->
+        <item>
+            <title>B-health | 몸과 마음이 온전히 회복되는 공간</title>
+            <link>https://bhealth-five.vercel.app/</link>
+            <description>40대 여성, 번아웃, 심리 치유, 마음 챙김. 온전한 쉼과 회복의 공간입니다. 여성회복센터, 심리상담, 40대여성 힐링공간</description>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 +0900</pubDate>
+            <guid isPermaLink="true">https://bhealth-five.vercel.app/</guid>
+        </item>
+        
+    </channel>
+</rss>
+
